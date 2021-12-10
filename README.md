@@ -13,7 +13,7 @@
     Did this just to see what the outcome would be, its very cool that the Australian National University puts this information free of charge on the internet for    developers to use.
     <br />
    <br />
-    <a href="https://qrng.anu.edu.au"><strong>Quantum numbers website</strong></a>
+    <a href="https://qrng.anu.edu.au" target="_blank"><strong>Quantum numbers website</strong></a>
   </p>
 </p>
 
