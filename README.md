@@ -11,7 +11,7 @@
   <h3 align="center">Quantum number generator</h3>
 
   <p align="center">
-    Pulls from server with live numbers based on quantum fluctuations of the vacuum for real random numbers.
+    Pulls from an API with live numbers based on quantum fluctuations of the vacuum for real (or non-pseudo) random numbers.
     <br />
     <a href="https://qrng.anu.edu.au"><strong>Quantum numbers website</strong></a>
   </p>
