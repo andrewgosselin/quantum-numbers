@@ -7,7 +7,7 @@
   <h3 align="center">Quantum number generator</h3>
 
   <p align="center">
-    Pulls from an API with live numbers based on quantum fluctuations of the vacuum for the closestt to real (or non-pseudo) random numbers we can get.
+    Pulls from an API with live numbers based on quantum fluctuations of the vacuum for the closest to real (or non-pseudo) random numbers we can get.
     <br/>
    <br />
     Did this just to see what the outcome would be, its very cool that the Australian National University puts this information free of charge on the internet for    developers to use.
