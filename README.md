@@ -15,4 +15,11 @@
    <br />
     <a href="https://qrng.anu.edu.au" target="_blank"><strong>Quantum numbers website</strong></a>
   </p>
+  <hr>
+  <h3 align="center">Install Requirements<h3>
+
+  <p align="center">
+    
+    pip install -r requirements.txt 
+  </p>
 </p>
