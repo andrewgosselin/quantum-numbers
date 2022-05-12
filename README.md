@@ -10,7 +10,7 @@
     Pulls from an API with live numbers based on quantum fluctuations of the vacuum for the closest to real (or non-pseudo) random numbers we can get.
     <br/>
    <br />
-    Did this just to see what the outcome would be, its very cool that the Australian National University puts this information free of charge on the internet for    developers to use.
+    Did this just to see what the outcome would be, its very cool that the Australian National University provides these APIs free of charge to the public.
     <br />
    <br />
     <a target="_blank" href="https://qrng.anu.edu.au"><strong>Quantum numbers website</strong></a>
