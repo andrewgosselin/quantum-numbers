@@ -16,7 +16,7 @@
     <a target="_blank" href="https://qrng.anu.edu.au"><strong>Quantum numbers website</strong></a>
   </p>
   <hr>
-  <h3 align="center">Install Requirements<h3>
+  <h3 align="center">Install Requirements</h3>
 
   <p align="center">
     
